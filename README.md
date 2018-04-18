@@ -68,9 +68,3 @@ Once application is running, the following options can be used to request the en
 2. Open Eclipse/STS
 3. Import the project
 4. Right-click on the project and "Run" as a "Spring Boot App"
-
-## Running Unit and Integration tests
-1. Clone the code to your local repository from https://github.com/AlarkaSanyal/products-api-services
-2. Open Eclipse/STS
-3. Import the project
-4. Right-click on the project and "Run" as a "JUnit Test"
